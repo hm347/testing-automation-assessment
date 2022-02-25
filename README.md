@@ -6,7 +6,7 @@ node >= 15.0.0
 
 test done with node v16.13.0
 
-## Installation
+# Installation
 npm install
 
 # Info
