@@ -12,12 +12,12 @@ npm install
 # Info
 Project 'wdio-chromedriver-service' is a devDepencencie used to manage chromeDriver (start/stop) automatically.
 
-# Run test
+# Run all tests
 npx wdio run ./wdio.conf.js
 
 or
 
 npm run wdio
 
-# Run a specific test
+# Run only scenario1 test
 npx wdio run ./wdio.conf.js --spec scenario1.e2e.js
